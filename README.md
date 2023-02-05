@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
-Here is my [Portfoliio](https://aviralsinghpal.netlify.app/) 
+Here is my [Portfolio](aviralsinghpal.netlify.app)
 I'm a computer science graduate who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I’m currently working as professional Senior System Engineer at Infosys.
