@@ -4,7 +4,7 @@
 I'm a computer science graduate who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I’m currently working as professional Senior System Engineer at Infosys.
-- 📚 I’m currently work on full-stack web development using NodeJS, ExpressJS, Reactjs and MongoDB.
+- 📚 I currently work on full-stack web development using NodeJS, ExpressJS, Reactjs and MongoDB.
 - 👯 I’m looking for a software development role. 
 - 💻 Check out my portfolio at [aviralsinghpal.netlify.app](https://aviralsinghpal.netlify.app)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/aviral-singh-pal/) [Gmail](mailto:aviralpal00007@gmail.com)
